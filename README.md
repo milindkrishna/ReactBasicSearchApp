@@ -1,7 +1,7 @@
 # for client side (react)
 For creating reactjs project :
 
-    npx install create-react-app my-app
+    npx create-react-app my-app
 
     cd my-app
 
